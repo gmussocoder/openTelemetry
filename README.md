@@ -1,2 +1,2 @@
-﻿# openTelemetry
+﻿# OpenTelemetry
 Exploración de Tecnología.
